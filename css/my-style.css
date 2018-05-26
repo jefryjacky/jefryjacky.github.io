@@ -1,3 +1,9 @@
+body, html {
+    margin: 0px;
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+}
+
 .wrap{
   position:absolute;
   left: 50%;
@@ -41,4 +47,73 @@ a {
 
 button:hover, a:hover {
   opacity: 0.7;
+}
+
+.bgimg{
+  position: relative;
+  /*Create parallax scrolling effect*/
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+#bgimg-1{
+  background-image: url("../images/background-4.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-2{
+  background-image: url("../images/background-7.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-3{
+  background-image: url("../images/background-11.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+
+#bgimg-4{
+  background-image: url("../images/background-5.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-5{
+  background-image: url("../images/background-6.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-6{
+  background-image: url("../images/background-8.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-7{
+  background-image: url("../images/background-9.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-8{
+  background-image: url("../images/background-10.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+  -webkit-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
 }
