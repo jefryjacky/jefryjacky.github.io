@@ -44,6 +44,7 @@ button {
   cursor: pointer;
   width: 100%;
   font-size: 18px;
+  margin: 0px;
 }
 
 a {
@@ -112,7 +113,7 @@ button:hover, a:hover {
   min-height: 25%;
 }
 
-/*mobile*/
+/*desktop*/
 @media only screen and (max-width: 600px) {
   .section{
     color: #FFFFFF;
