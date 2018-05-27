@@ -61,7 +61,7 @@ button:hover, a:hover {
   /*Create parallax scrolling effect*/
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size:100% auto;
+  background-size:cover;
 }
 
 #bgimg-1{
@@ -130,4 +130,7 @@ button:hover, a:hover {
     text-align:center;padding:8px 8px;
     text-align: justify;
   }
+  .parallax {
+        background-attachment: scroll;
+    }
 }
