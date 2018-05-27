@@ -4,7 +4,7 @@ canvas {
   vertical-align: bottom;
 } /* ---- particles.js container ---- */
 #particles-js {
-  position: absolute;
+  position: relative;
   width: 100%;
   height: 100%;
   background-color: #34495e;
@@ -17,7 +17,6 @@ canvas {
 /*desktop*/
 @media only screen and (min-width: 600px){
   #particles-js {
-    position: relative;
     background-attachment: fixed;
     background-image: url("../images/source-code-background.png");
   }
