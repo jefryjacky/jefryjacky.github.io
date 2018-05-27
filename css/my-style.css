@@ -112,17 +112,6 @@ button:hover, a:hover {
   min-height: 25%;
 }
 
-.caption {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  color: #000;
-  -webkit-transform: translate(0%, -50%);
-  transform: translate(0%, -50%);
-}
-
 @media only screen and (max-width: 600px) {
   .section{
     color: #FFFFFF;
@@ -136,5 +125,12 @@ button:hover, a:hover {
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-size:cover;
+  }
+  .card h1{
+    font-size: 18px;
+  }
+  .title {
+    color: grey;
+    font-size: 12px;
   }
 }
