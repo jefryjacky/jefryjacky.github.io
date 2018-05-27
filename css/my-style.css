@@ -1,7 +1,7 @@
 body, html {
     margin: 0px;
     height: 100%;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato' , sans-serif;
 }
 
 .wrap{
@@ -75,37 +75,35 @@ button:hover, a:hover {
   min-height: 25%;
 }
 
-
 #bgimg-4{
-  background-image: url("../images/background-5.jpg");
-  /* full height */
-  min-height: 25%;
-}
-
-#bgimg-5{
   background-image: url("../images/background-6.jpg");
   /* full height */
   min-height: 25%;
 }
 
-#bgimg-6{
+#bgimg-5{
   background-image: url("../images/background-8.jpg");
   /* full height */
   min-height: 25%;
 }
 
-#bgimg-7{
+#bgimg-6{
   background-image: url("../images/background-9.jpg");
   /* full height */
   min-height: 25%;
 }
 
-#bgimg-8{
+#bgimg-7{
   background-image: url("../images/background-10.jpg");
   /* full height */
   min-height: 25%;
 }
 
+#bgimg-8{
+  background-image: url("../images/background-5.jpg");
+  /* full height */
+  min-height: 25%;
+}
 
 .caption {
   position: absolute;
