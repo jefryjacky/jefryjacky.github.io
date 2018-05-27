@@ -26,6 +26,13 @@ body, html {
   font-size: 18px;
 }
 
+.section{
+  color: #FFFFFF;
+  background-color:#34495e;
+  text-align:center;padding:50px 80px;
+  text-align: justify;
+}
+
 button {
   border: none;
   outline: 0;
@@ -114,4 +121,13 @@ button:hover, a:hover {
   color: #000;
   -webkit-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
+}
+
+@media only screen and (max-width: 600px) {
+  .section{
+    color: #FFFFFF;
+    background-color:#34495e;
+    text-align:center;padding:8px 8px;
+    text-align: justify;
+  }
 }
