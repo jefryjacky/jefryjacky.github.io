@@ -112,6 +112,7 @@ button:hover, a:hover {
   min-height: 25%;
 }
 
+/*mobile*/
 @media only screen and (max-width: 600px) {
   .section{
     color: #FFFFFF;
