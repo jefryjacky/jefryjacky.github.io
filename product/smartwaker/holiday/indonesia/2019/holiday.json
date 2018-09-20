@@ -1,0 +1,69 @@
+{
+  "version":"1",
+  "list": [
+    {
+      "name": "Tahun Baru Masehi",
+      "date": "Jan 1, 2019"
+    },
+    {
+      "name": "Tahun Baru Imlek",
+      "date": "Feb 5, 2019"
+    },
+    {
+      "name": "Hari Raya Nyepi",
+      "date": "Mar 6, 2019"
+    },
+    {
+      "name": "Isra Mi'raj",
+      "date": "Apr 3, 2019"
+    },
+    {
+      "name": "Jumat Agung",
+      "date": "Apr 19, 2019"
+    },
+    {
+      "name": "Hari Buruh",
+      "date": "May 1, 2019"
+    },
+    {
+      "name": "Hari Waisak",
+      "date": "May 19, 2019"
+    },
+    {
+      "name": "Kenaikan Isa Almasih",
+      "date": "May 30, 2019"
+    },
+    {
+      "name": "Hari Kesaktian Pancasila",
+      "date": "Jun 1, 2019"
+    },
+    {
+      "name": "Hari Raya Idul Fitri",
+      "date": "Jun 5, 2019"
+    },
+    {
+      "name": "Cuti Bersama Lebaran",
+      "date": "Jun 6, 2019"
+    },
+    {
+      "name": "Idul Adha",
+      "date": "Aug 12, 2019"
+    },
+    {
+      "name": "Hari Kemerdekaan",
+      "date": "Aug 17, 2019"
+    },
+    {
+      "name": "Tahun Baru Islam",
+      "date": "Sep 1, 2019"
+    },
+    {
+      "name": "Maulid Nabi Muhammad SAW",
+      "date": "Nov 10, 2019"
+    },
+    {
+      "name": "Hari Natal",
+      "date": "Dec 25, 2019"
+    }
+  ]
+}
