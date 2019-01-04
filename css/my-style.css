@@ -12,6 +12,10 @@ body, html {
   transform: translate(-50%, -50%);
 }
 
+img.appstore{
+  padding:8px;
+}
+
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
