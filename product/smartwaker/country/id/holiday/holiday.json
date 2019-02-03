@@ -3,100 +3,6 @@
   "years": [
     {
       "version": "2",
-      "year": "2018",
-      "list": [
-        {
-          "name": "Tahun Baru Masehi",
-          "date": "Jan 01, 2018"
-        },
-        {
-          "name": "Tahun Baru Imlek",
-          "date": "Feb 16, 2018"
-        },
-        {
-          "name": "Hari Raya Nyepi",
-          "date": "Mar 17, 2018"
-        },
-        {
-          "name": "Jumat Agung",
-          "date": "MAR 30, 2018"
-        },
-        {
-          "name": "Isra Mi'raj",
-          "date": "Apr 14, 2018"
-        },
-        {
-          "name": "Hari Buruh",
-          "date": "May 1, 2018"
-        },
-        {
-          "name": "Kenaikan Isa Almasih",
-          "date": "May 10, 2018"
-        },
-        {
-          "name": "Hari Waisak",
-          "date": "May 29, 2018"
-        },
-        {
-          "name": "Hari Kesaktian Pancasila",
-          "date": "Jun 1, 2018"
-        },
-        {
-          "name": "Cuti Bersama Lebaran",
-          "date": "Jun 13, 2018"
-        },
-        {
-          "name": "Cuti Bersama Lebaran",
-          "date": "Jun 14, 2018"
-        },
-        {
-          "name": "Hari Raya Idul Fitri",
-          "date": "Jun 15, 2018"
-        },
-        {
-          "name": "Hari Raya Idul Fitri",
-          "date": "Jun 16, 2018"
-        },
-        {
-          "name": "Cuti Bersama Lebaran",
-          "date": "Jun 18, 2018"
-        },
-        {
-          "name": "Cuti Bersama Lebaran",
-          "date": "Jun 19, 2018"
-        },
-        {
-          "name": "Pilkada serentak",
-          "date": "Jun 27, 2018"
-        },
-        {
-          "name": "Hari Kemerdekaan",
-          "date": "Aug 17, 2018"
-        },
-        {
-          "name": "Idul Adha",
-          "date": "Aug 22, 2018"
-        },
-        {
-          "name": "Tahun Baru Islam",
-          "date": "Sep 11, 2018"
-        },
-        {
-          "name": "Maulid Nabi Muhammad SAW",
-          "date": "Nov 20, 2018"
-        },
-        {
-          "name": "Cuti Bersama Hari Natal",
-          "date": "Dec 24, 2018"
-        },
-        {
-          "name": "Hari Natal",
-          "date": "Dec 25, 2018"
-        }
-      ]
-    },
-    {
-      "version": "1",
       "year": "2019",
       "list": [
         {
@@ -109,7 +15,7 @@
         },
         {
           "name": "Hari Raya Nyepi",
-          "date": "Mar 6, 2019"
+          "date": "Mar 7, 2019"
         },
         {
           "name": "Isra Mi'raj",
@@ -132,8 +38,16 @@
           "date": "May 30, 2019"
         },
         {
-          "name": "Hari Kesaktian Pancasila",
+          "name": "Hari Lahir Pancasila",
           "date": "Jun 1, 2019"
+        },
+        {
+          "name": "Cuti Bersama Lebaran",
+          "date": "Jun 3, 2019"
+        },
+        {
+          "name": "Cuti Bersama Lebaran",
+          "date": "Jun 4, 2019"
         },
         {
           "name": "Hari Raya Idul Fitri",
@@ -144,8 +58,12 @@
           "date": "Jun 6, 2019"
         },
         {
+          "name": "Cuti Bersama Lebaran",
+          "date": "Jun 7, 2019"
+        },
+        {
           "name": "Idul Adha",
-          "date": "Aug 12, 2019"
+          "date": "Aug 11, 2019"
         },
         {
           "name": "Hari Kemerdekaan",
@@ -157,11 +75,85 @@
         },
         {
           "name": "Maulid Nabi Muhammad SAW",
-          "date": "Nov 10, 2019"
+          "date": "Nov 9, 2019"
+        },
+        {
+          "name": "Cuti Bersama Hari Natal",
+          "date": "Dec 24, 2019"
         },
         {
           "name": "Hari Natal",
           "date": "Dec 25, 2019"
+        }
+      ]
+    },
+    {
+      "version": "1",
+      "year": "2020",
+      "list": [
+        {
+          "name": "Tahun Baru Masehi",
+          "date": "Jan 01, 2020"
+        },
+        {
+          "name": "Tahun Baru Imlek",
+          "date": "Jan 25, 2020"
+        },
+        {
+          "name": "Isra Mi'raj",
+          "date": "Mar 22, 2020"
+        },
+        {
+          "name": "Hari Raya Nyepi",
+          "date": "Mar 25, 2020"
+        },
+        {
+          "name": "Jumat Agung",
+          "date": "Apr 10, 2020"
+        },
+        {
+          "name": "Hari Buruh",
+          "date": "May 1, 2020"
+        },
+        {
+          "name": "Hari Waisak",
+          "date": "May 7, 2020"
+        },
+        {
+          "name": "Kenaikan Isa Almasih",
+          "date": "May 21, 2020"
+        },
+        {
+          "name": "Hari Raya Idul Fitri",
+          "date": "May 24, 2020"
+        },
+        {
+          "name": "Cuti Bersama Lebaran",
+          "date": "May 25, 2020"
+        },
+        {
+          "name": "Hari Lahir Pancasila",
+          "date": "Jun 1, 2020"
+        },
+        {
+          "name": "Idul Adha",
+          "date": "Jul 31, 2020"
+        },
+        {
+          "name": "Hari Kemerdekaan",
+          "date": "Aug 17, 2020"
+        },
+        {
+          "name": "Tahun Baru Islam",
+          "date": "Aug 20, 2020"
+        },
+        {
+          "name": "Maulid Nabi Muhammad SAW",
+          "date": "Oct 29, 2020"
+        },
+        {
+          "name": "Hari Natal",
+          "date": "Dec 25, 2020"
         }
       ]
     }
