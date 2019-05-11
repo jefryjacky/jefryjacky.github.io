@@ -1,0 +1,105 @@
+{
+  "country code": "us",
+  "years": [
+    {
+      "version": 1,
+      "year": 2019,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Feb 1 2019"
+        },
+        {
+          "name": "Martin Luther King Jr. Day",
+          "date": "Feb 21 2019"
+        },
+        {
+          "name": "Washington\u0027s Birthday",
+          "date": "Mar 18 2019"
+        },
+        {
+          "name": "DC Emancipation Day",
+          "date": "May 16 2019"
+        },
+        {
+          "name": "Memorial Day",
+          "date": "Jun 27 2019"
+        },
+        {
+          "name": "Independence Day",
+          "date": "Aug 4 2019"
+        },
+        {
+          "name": "Labor Day",
+          "date": "Oct 2 2019"
+        },
+        {
+          "name": "Columbus Day",
+          "date": "Nov 14 2019"
+        },
+        {
+          "name": "Veterans Day",
+          "date": "Dec 11 2019"
+        },
+        {
+          "name": "Thanksgiving Day",
+          "date": "Dec 28 2019"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Jan 25 2020"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2020,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Feb 1 2020"
+        },
+        {
+          "name": "Martin Luther King Jr. Day",
+          "date": "Feb 20 2020"
+        },
+        {
+          "name": "Washington\u0027s Birthday",
+          "date": "Mar 17 2020"
+        },
+        {
+          "name": "DC Emancipation Day",
+          "date": "May 16 2020"
+        },
+        {
+          "name": "Memorial Day",
+          "date": "Jun 25 2020"
+        },
+        {
+          "name": "Independence Day",
+          "date": "Aug 4 2020"
+        },
+        {
+          "name": "Labor Day",
+          "date": "Oct 7 2020"
+        },
+        {
+          "name": "Columbus Day",
+          "date": "Nov 12 2020"
+        },
+        {
+          "name": "Veterans Day",
+          "date": "Dec 11 2020"
+        },
+        {
+          "name": "Thanksgiving Day",
+          "date": "Dec 26 2020"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Jan 25 2021"
+        }
+      ]
+    }
+  ]
+}
