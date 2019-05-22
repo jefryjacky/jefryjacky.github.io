@@ -1,0 +1,89 @@
+{
+  "country code": "GB",
+  "years": [
+    {
+      "version": 1,
+      "year": 2019,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2019"
+        },
+        {
+          "name": "2nd January",
+          "date": "Jan 2, 2019"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 19, 2019"
+        },
+        {
+          "name": "May Day Bank Holiday",
+          "date": "May 6, 2019"
+        },
+        {
+          "name": "Spring Bank Holiday",
+          "date": "May 27, 2019"
+        },
+        {
+          "name": "Summer Bank Holiday",
+          "date": "Aug 5, 2019"
+        },
+        {
+          "name": "St. Andrew\u0027s Day",
+          "date": "Nov 30, 2019"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2019"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2019"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2020,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2020"
+        },
+        {
+          "name": "2nd January",
+          "date": "Jan 2, 2020"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 10, 2020"
+        },
+        {
+          "name": "May Day Bank Holiday",
+          "date": "May 4, 2020"
+        },
+        {
+          "name": "Spring Bank Holiday",
+          "date": "May 25, 2020"
+        },
+        {
+          "name": "Summer Bank Holiday",
+          "date": "Aug 3, 2020"
+        },
+        {
+          "name": "St. Andrew\u0027s Day",
+          "date": "Nov 30, 2020"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2020"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2020"
+        }
+      ]
+    }
+  ]
+}

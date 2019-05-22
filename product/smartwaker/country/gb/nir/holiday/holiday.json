@@ -1,0 +1,97 @@
+{
+  "country code": "GB",
+  "years": [
+    {
+      "version": 1,
+      "year": 2019,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2019"
+        },
+        {
+          "name": "St. Patrick\u0027s Day",
+          "date": "Mar 17, 2019"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 19, 2019"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 22, 2019"
+        },
+        {
+          "name": "May Day Bank Holiday",
+          "date": "May 6, 2019"
+        },
+        {
+          "name": "Spring Bank Holiday",
+          "date": "May 27, 2019"
+        },
+        {
+          "name": "Battle of the Boyne (Orangemen\u0027s Day)",
+          "date": "Jul 12, 2019"
+        },
+        {
+          "name": "Late Summer Bank Holiday",
+          "date": "Aug 26, 2019"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2019"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2019"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2020,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2020"
+        },
+        {
+          "name": "St. Patrick\u0027s Day",
+          "date": "Mar 17, 2020"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 10, 2020"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 13, 2020"
+        },
+        {
+          "name": "May Day Bank Holiday",
+          "date": "May 4, 2020"
+        },
+        {
+          "name": "Spring Bank Holiday",
+          "date": "May 25, 2020"
+        },
+        {
+          "name": "Battle of the Boyne (Orangemen\u0027s Day)",
+          "date": "Jul 12, 2020"
+        },
+        {
+          "name": "Late Summer Bank Holiday",
+          "date": "Aug 31, 2020"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2020"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2020"
+        }
+      ]
+    }
+  ]
+}
