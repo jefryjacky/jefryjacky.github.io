@@ -1,0 +1,89 @@
+{
+  "country code": "BR",
+  "years": [
+    {
+      "version": 1,
+      "year": 2019,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2019"
+        },
+        {
+          "name": "Tiradentes\u0027 Day",
+          "date": "Apr 21, 2019"
+        },
+        {
+          "name": "Labour Day",
+          "date": "May 1, 2019"
+        },
+        {
+          "name": "Independence Day",
+          "date": "Sep 7, 2019"
+        },
+        {
+          "name": "Lady of Aparecida Day",
+          "date": "Oct 12, 2019"
+        },
+        {
+          "name": "Civil Servants\u0027 Day",
+          "date": "Oct 28, 2019"
+        },
+        {
+          "name": "All Souls\u0027 Day",
+          "date": "Nov 2, 2019"
+        },
+        {
+          "name": "Republic Day",
+          "date": "Nov 15, 2019"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2019"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2020,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2020"
+        },
+        {
+          "name": "Tiradentes\u0027 Day",
+          "date": "Apr 21, 2020"
+        },
+        {
+          "name": "Labour Day",
+          "date": "May 1, 2020"
+        },
+        {
+          "name": "Independence Day",
+          "date": "Sep 7, 2020"
+        },
+        {
+          "name": "Lady of Aparecida Day",
+          "date": "Oct 12, 2020"
+        },
+        {
+          "name": "Civil Servants\u0027 Day",
+          "date": "Oct 28, 2020"
+        },
+        {
+          "name": "All Souls\u0027 Day",
+          "date": "Nov 2, 2020"
+        },
+        {
+          "name": "Republic Day",
+          "date": "Nov 15, 2020"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2020"
+        }
+      ]
+    }
+  ]
+}
