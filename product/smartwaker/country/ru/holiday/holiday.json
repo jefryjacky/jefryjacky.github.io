@@ -1,0 +1,145 @@
+{
+  "country code": "RU",
+  "years": [
+    {
+      "version": 1,
+      "year": 2019,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2019"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 2, 2019"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 3, 2019"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 4, 2019"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 5, 2019"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 6, 2019"
+        },
+        {
+          "name": "Orthodox Christmas Day",
+          "date": "Jan 7, 2019"
+        },
+        {
+          "name": "Holiday",
+          "date": "Jan 8, 2019"
+        },
+        {
+          "name": "Defender of the Fatherland Day",
+          "date": "Feb 23, 2019"
+        },
+        {
+          "name": "International Women\u0027s Day",
+          "date": "Mar 8, 2019"
+        },
+        {
+          "name": "The Day of Spring and Labor",
+          "date": "May 1, 2019"
+        },
+        {
+          "name": "Holiday",
+          "date": "May 2, 2019"
+        },
+        {
+          "name": "Holiday",
+          "date": "May 3, 2019"
+        },
+        {
+          "name": "Victory Day",
+          "date": "May 9, 2019"
+        },
+        {
+          "name": "Holiday",
+          "date": "May 10, 2019"
+        },
+        {
+          "name": "Russia Day",
+          "date": "Jun 12, 2019"
+        },
+        {
+          "name": "Unity Day",
+          "date": "Nov 4, 2019"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2020,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2020"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 2, 2020"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 3, 2020"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 4, 2020"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 5, 2020"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 6, 2020"
+        },
+        {
+          "name": "Orthodox Christmas Day",
+          "date": "Jan 7, 2020"
+        },
+        {
+          "name": "Defender of the Fatherland Day",
+          "date": "Feb 23, 2020"
+        },
+        {
+          "name": "International Women\u0027s Day",
+          "date": "Mar 8, 2020"
+        },
+        {
+          "name": "International Women\u0027s Day",
+          "date": "Mar 9, 2020"
+        },
+        {
+          "name": "The Day of Spring and Labor",
+          "date": "May 1, 2020"
+        },
+        {
+          "name": "Victory Day",
+          "date": "May 9, 2020"
+        },
+        {
+          "name": "Victory Day",
+          "date": "May 11, 2020"
+        },
+        {
+          "name": "Russia Day",
+          "date": "Jun 12, 2020"
+        },
+        {
+          "name": "Unity Day",
+          "date": "Nov 4, 2020"
+        }
+      ]
+    }
+  ]
+}
