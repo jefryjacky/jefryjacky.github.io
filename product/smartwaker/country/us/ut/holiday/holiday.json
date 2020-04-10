@@ -3,56 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2019,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2019"
-        },
-        {
-          "name": "Dr. Martin Luther King, Jr. Day",
-          "date": "Jan 21, 2019"
-        },
-        {
-          "name": "Washington and Lincoln Day",
-          "date": "Feb 18, 2019"
-        },
-        {
-          "name": "Memorial Day",
-          "date": "May 27, 2019"
-        },
-        {
-          "name": "Independence Day",
-          "date": "Jul 4, 2019"
-        },
-        {
-          "name": "Pioneer Day",
-          "date": "Jul 24, 2019"
-        },
-        {
-          "name": "Labor Day",
-          "date": "Sep 2, 2019"
-        },
-        {
-          "name": "Columbus Day",
-          "date": "Oct 14, 2019"
-        },
-        {
-          "name": "Veterans\u0027 Day",
-          "date": "Nov 11, 2019"
-        },
-        {
-          "name": "Thanksgiving Day",
-          "date": "Nov 28, 2019"
-        },
-        {
-          "name": "Christmas",
-          "date": "Dec 25, 2019"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2020,
       "list": [
         {
@@ -64,7 +14,7 @@
           "date": "Jan 20, 2020"
         },
         {
-          "name": "Washington and Lincoln Day",
+          "name": "President\u0027s Day",
           "date": "Feb 17, 2020"
         },
         {
@@ -96,8 +46,58 @@
           "date": "Nov 26, 2020"
         },
         {
-          "name": "Christmas",
+          "name": "Christmas Day",
           "date": "Dec 25, 2020"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2021,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2021"
+        },
+        {
+          "name": "Dr. Martin Luther King, Jr. Day",
+          "date": "Jan 18, 2021"
+        },
+        {
+          "name": "President\u0027s Day",
+          "date": "Feb 15, 2021"
+        },
+        {
+          "name": "Memorial Day",
+          "date": "May 31, 2021"
+        },
+        {
+          "name": "Independence Day",
+          "date": "Jul 4, 2021"
+        },
+        {
+          "name": "Pioneer Day",
+          "date": "Jul 24, 2021"
+        },
+        {
+          "name": "Labor Day",
+          "date": "Sep 6, 2021"
+        },
+        {
+          "name": "Columbus Day",
+          "date": "Oct 11, 2021"
+        },
+        {
+          "name": "Veterans\u0027 Day",
+          "date": "Nov 11, 2021"
+        },
+        {
+          "name": "Thanksgiving Day",
+          "date": "Nov 25, 2021"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2021"
         }
       ]
     }

@@ -1,0 +1,137 @@
+{
+  "country code": "AU",
+  "years": [
+    {
+      "version": 1,
+      "year": 2020,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2020"
+        },
+        {
+          "name": "Australia Day",
+          "date": "Jan 26, 2020"
+        },
+        {
+          "name": "Canberra Day",
+          "date": "Mar 9, 2020"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 10, 2020"
+        },
+        {
+          "name": "Easter Saturday",
+          "date": "Apr 11, 2020"
+        },
+        {
+          "name": "Easter Sunday",
+          "date": "Apr 12, 2020"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 13, 2020"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "Apr 25, 2020"
+        },
+        {
+          "name": "Declared public holiday",
+          "date": "Apr 27, 2020"
+        },
+        {
+          "name": "Reconciliation Day",
+          "date": "Jun 1, 2020"
+        },
+        {
+          "name": "Queen\u0027s Birthday",
+          "date": "Jun 8, 2020"
+        },
+        {
+          "name": "Labour Day",
+          "date": "Oct 5, 2020"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2020"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2020"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 28, 2020"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2021,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2021"
+        },
+        {
+          "name": "Australia Day",
+          "date": "Jan 26, 2021"
+        },
+        {
+          "name": "Canberra Day",
+          "date": "Mar 8, 2021"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 2, 2021"
+        },
+        {
+          "name": "Easter Saturday",
+          "date": "Apr 3, 2021"
+        },
+        {
+          "name": "Easter Sunday",
+          "date": "Apr 4, 2021"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 5, 2021"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "Apr 25, 2021"
+        },
+        {
+          "name": "Reconciliation Day",
+          "date": "May 31, 2021"
+        },
+        {
+          "name": "Queen\u0027s Birthday",
+          "date": "Jun 14, 2021"
+        },
+        {
+          "name": "Labour Day",
+          "date": "Oct 4, 2021"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2021"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2021"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 27, 2021"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 28, 2021"
+        }
+      ]
+    }
+  ]
+}

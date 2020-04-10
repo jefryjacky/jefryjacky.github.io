@@ -3,80 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2019,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2019"
-        },
-        {
-          "name": "New Year’s Holiday",
-          "date": "Jan 2, 2019"
-        },
-        {
-          "name": "New Year’s Holiday",
-          "date": "Jan 3, 2019"
-        },
-        {
-          "name": "New Year’s Holiday",
-          "date": "Jan 4, 2019"
-        },
-        {
-          "name": "New Year’s Holiday",
-          "date": "Jan 5, 2019"
-        },
-        {
-          "name": "New Year’s Holiday",
-          "date": "Jan 6, 2019"
-        },
-        {
-          "name": "Orthodox Christmas Day",
-          "date": "Jan 7, 2019"
-        },
-        {
-          "name": "Holiday",
-          "date": "Jan 8, 2019"
-        },
-        {
-          "name": "Defender of the Fatherland Day",
-          "date": "Feb 23, 2019"
-        },
-        {
-          "name": "International Women\u0027s Day",
-          "date": "Mar 8, 2019"
-        },
-        {
-          "name": "The Day of Spring and Labor",
-          "date": "May 1, 2019"
-        },
-        {
-          "name": "Holiday",
-          "date": "May 2, 2019"
-        },
-        {
-          "name": "Holiday",
-          "date": "May 3, 2019"
-        },
-        {
-          "name": "Victory Day",
-          "date": "May 9, 2019"
-        },
-        {
-          "name": "Holiday",
-          "date": "May 10, 2019"
-        },
-        {
-          "name": "Russia Day",
-          "date": "Jun 12, 2019"
-        },
-        {
-          "name": "Unity Day",
-          "date": "Nov 4, 2019"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2020,
       "list": [
         {
@@ -108,8 +34,16 @@
           "date": "Jan 7, 2020"
         },
         {
+          "name": "Holiday",
+          "date": "Jan 8, 2020"
+        },
+        {
           "name": "Defender of the Fatherland Day",
           "date": "Feb 23, 2020"
+        },
+        {
+          "name": "Holiday",
+          "date": "Feb 24, 2020"
         },
         {
           "name": "International Women\u0027s Day",
@@ -122,6 +56,14 @@
         {
           "name": "The Day of Spring and Labor",
           "date": "May 1, 2020"
+        },
+        {
+          "name": "Holiday",
+          "date": "May 4, 2020"
+        },
+        {
+          "name": "Holiday",
+          "date": "May 5, 2020"
         },
         {
           "name": "Victory Day",
@@ -138,6 +80,76 @@
         {
           "name": "Unity Day",
           "date": "Nov 4, 2020"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2021,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2021"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 2, 2021"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 3, 2021"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 4, 2021"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 5, 2021"
+        },
+        {
+          "name": "New Year’s Holiday",
+          "date": "Jan 6, 2021"
+        },
+        {
+          "name": "Orthodox Christmas Day",
+          "date": "Jan 7, 2021"
+        },
+        {
+          "name": "Defender of the Fatherland Day",
+          "date": "Feb 23, 2021"
+        },
+        {
+          "name": "International Women\u0027s Day",
+          "date": "Mar 8, 2021"
+        },
+        {
+          "name": "The Day of Spring and Labor",
+          "date": "May 1, 2021"
+        },
+        {
+          "name": "The Day of Spring and Labor",
+          "date": "May 3, 2021"
+        },
+        {
+          "name": "Victory Day",
+          "date": "May 9, 2021"
+        },
+        {
+          "name": "Victory Day",
+          "date": "May 10, 2021"
+        },
+        {
+          "name": "Russia Day",
+          "date": "Jun 12, 2021"
+        },
+        {
+          "name": "Russia Day",
+          "date": "Jun 14, 2021"
+        },
+        {
+          "name": "Unity Day",
+          "date": "Nov 4, 2021"
         }
       ]
     }
