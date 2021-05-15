@@ -3,44 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2020,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2020"
-        },
-        {
-          "name": "Good Friday",
-          "date": "Apr 10, 2020"
-        },
-        {
-          "name": "Easter Monday",
-          "date": "Apr 13, 2020"
-        },
-        {
-          "name": " \tEarly May bank holiday (VE day)",
-          "date": "May 8, 2020"
-        },
-        {
-          "name": "Spring bank holiday",
-          "date": "May 25, 2020"
-        },
-        {
-          "name": "Summer bank holiday",
-          "date": "Aug 31, 2020"
-        },
-        {
-          "name": "Christmas Day",
-          "date": "Dec 25, 2020"
-        },
-        {
-          "name": "Boxing Day",
-          "date": "Dec 26, 2020"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2021,
       "list": [
         {
@@ -74,6 +36,44 @@
         {
           "name": "Boxing Day",
           "date": "Dec 26, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 18, 2022"
+        },
+        {
+          "name": "Early May bank holiday",
+          "date": "May 2, 2022"
+        },
+        {
+          "name": "Spring bank holiday",
+          "date": "May 30, 2022"
+        },
+        {
+          "name": "Summer bank holiday",
+          "date": "Aug 29, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2022"
         }
       ]
     }

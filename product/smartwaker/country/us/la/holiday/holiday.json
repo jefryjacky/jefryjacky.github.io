@@ -3,60 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2020,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2020"
-        },
-        {
-          "name": "Inauguration Day",
-          "date": "Jan 13, 2020"
-        },
-        {
-          "name": "Martin Luther King, Jr.\u0027s Birthday",
-          "date": "Jan 20, 2020"
-        },
-        {
-          "name": "Mardi Gras",
-          "date": "Feb 25, 2020"
-        },
-        {
-          "name": "Good Friday",
-          "date": "Apr 10, 2020"
-        },
-        {
-          "name": "Memorial Day",
-          "date": "May 25, 2020"
-        },
-        {
-          "name": "Independence Day",
-          "date": "Jul 4, 2020"
-        },
-        {
-          "name": "Labor Day",
-          "date": "Sep 7, 2020"
-        },
-        {
-          "name": "Elections Day",
-          "date": "Nov 3, 2020"
-        },
-        {
-          "name": "Veterans Day",
-          "date": "Nov 11, 2020"
-        },
-        {
-          "name": "Thanksgiving Day",
-          "date": "Nov 26, 2020"
-        },
-        {
-          "name": "Christmas Day",
-          "date": "Dec 25, 2020"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2021,
       "list": [
         {
@@ -98,6 +44,56 @@
         {
           "name": "Christmas Day",
           "date": "Dec 25, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "Martin Luther King, Jr.\u0027s Birthday",
+          "date": "Jan 17, 2022"
+        },
+        {
+          "name": "Mardi Gras",
+          "date": "Mar 1, 2022"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Memorial Day",
+          "date": "May 30, 2022"
+        },
+        {
+          "name": "Independence Day",
+          "date": "Jul 4, 2022"
+        },
+        {
+          "name": "Labor Day",
+          "date": "Sep 5, 2022"
+        },
+        {
+          "name": "Elections Day",
+          "date": "Nov 8, 2022"
+        },
+        {
+          "name": "Veterans Day",
+          "date": "Nov 11, 2022"
+        },
+        {
+          "name": "Thanksgiving Day",
+          "date": "Nov 24, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
         }
       ]
     }

@@ -3,68 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2020,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2020"
-        },
-        {
-          "name": "Australia Day",
-          "date": "Jan 26, 2020"
-        },
-        {
-          "name": "Australia Day",
-          "date": "Jan 27, 2020"
-        },
-        {
-          "name": "March public holiday",
-          "date": "Mar 9, 2020"
-        },
-        {
-          "name": "Good Friday",
-          "date": "Apr 10, 2020"
-        },
-        {
-          "name": "Easter Saturday",
-          "date": "Apr 11, 2020"
-        },
-        {
-          "name": "Easter Monday",
-          "date": "Apr 13, 2020"
-        },
-        {
-          "name": "Anzac Day",
-          "date": "Apr 25, 2020"
-        },
-        {
-          "name": "Queen\u0027s Birthday",
-          "date": "Jun 8, 2020"
-        },
-        {
-          "name": "Labour Day",
-          "date": "Oct 5, 2020"
-        },
-        {
-          "name": "Christmas Eve",
-          "date": "Dec 24, 2020"
-        },
-        {
-          "name": "Christmas Day",
-          "date": "Dec 25, 2020"
-        },
-        {
-          "name": "Boxing Day / Proclamation Day",
-          "date": "Dec 26, 2020"
-        },
-        {
-          "name": "New Year\u0027s Eve",
-          "date": "Dec 31, 2020"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2021,
       "list": [
         {
@@ -116,6 +54,10 @@
           "date": "Dec 25, 2021"
         },
         {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2021"
+        },
+        {
           "name": "Boxing Day / Proclamation Day",
           "date": "Dec 26, 2021"
         },
@@ -126,6 +68,72 @@
         {
           "name": "New Year\u0027s Eve",
           "date": "Dec 31, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "Australia Day",
+          "date": "Jan 26, 2022"
+        },
+        {
+          "name": "March public holiday",
+          "date": "Mar 14, 2022"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Easter Saturday",
+          "date": "Apr 16, 2022"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 18, 2022"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "Apr 25, 2022"
+        },
+        {
+          "name": "Queen\u0027s Birthday",
+          "date": "Jun 13, 2022"
+        },
+        {
+          "name": "Labour Day",
+          "date": "Oct 3, 2022"
+        },
+        {
+          "name": "Christmas Eve",
+          "date": "Dec 24, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 26, 2022"
+        },
+        {
+          "name": "Boxing Day / Proclamation Day",
+          "date": "Dec 26, 2022"
+        },
+        {
+          "name": "Boxing Day / Proclamation Day",
+          "date": "Dec 27, 2022"
+        },
+        {
+          "name": "New Year\u0027s Eve",
+          "date": "Dec 31, 2022"
         }
       ]
     }

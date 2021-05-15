@@ -3,60 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2020,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2020"
-        },
-        {
-          "name": "Australia Day",
-          "date": "Jan 26, 2020"
-        },
-        {
-          "name": "Labour Day",
-          "date": "Mar 2, 2020"
-        },
-        {
-          "name": "Good Friday",
-          "date": "Apr 10, 2020"
-        },
-        {
-          "name": "Easter Monday",
-          "date": "Apr 13, 2020"
-        },
-        {
-          "name": "Anzac Day",
-          "date": "Apr 25, 2020"
-        },
-        {
-          "name": "Anzac Day",
-          "date": "Apr 27, 2020"
-        },
-        {
-          "name": "Western Australia Day",
-          "date": "Jun 1, 2020"
-        },
-        {
-          "name": "Queen\u0027s Birthday",
-          "date": "Sep 28, 2020"
-        },
-        {
-          "name": "Christmas Day",
-          "date": "Dec 25, 2020"
-        },
-        {
-          "name": "Boxing Day",
-          "date": "Dec 26, 2020"
-        },
-        {
-          "name": "Boxing Day",
-          "date": "Dec 28, 2020"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2021,
       "list": [
         {
@@ -110,6 +56,64 @@
         {
           "name": "Boxing Day",
           "date": "Dec 28, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 3, 2022"
+        },
+        {
+          "name": "Australia Day",
+          "date": "Jan 26, 2022"
+        },
+        {
+          "name": "Labour Day",
+          "date": "Mar 7, 2022"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 18, 2022"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "Apr 25, 2022"
+        },
+        {
+          "name": "Western Australia Day",
+          "date": "Jun 6, 2022"
+        },
+        {
+          "name": "Queen\u0027s Birthday",
+          "date": "Sep 26, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 26, 2022"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2022"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 27, 2022"
         }
       ]
     }

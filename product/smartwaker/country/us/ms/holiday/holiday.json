@@ -3,47 +3,93 @@
   "years": [
     {
       "version": 1,
-      "year": 2020,
+      "year": 2021,
       "list": [
         {
           "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2020"
+          "date": "Jan 1, 2021"
         },
         {
           "name": "Martin Luther King\u0027s and Robert E. Lee\u0027s Birthdays",
-          "date": "Jan 20, 2020"
+          "date": "Jan 18, 2021"
         },
         {
           "name": "George Washington\u0027s Birthday",
-          "date": "Feb 17, 2020"
+          "date": "Feb 15, 2021"
         },
         {
           "name": "Confederate Memorial Day",
-          "date": "Apr 27, 2020"
+          "date": "Apr 26, 2021"
         },
         {
           "name": "National Memorial Day / Jefferson Davis\u0027 Birthday",
-          "date": "May 25, 2020"
+          "date": "May 31, 2021"
         },
         {
           "name": "Independence Day",
-          "date": "Jul 4, 2020"
+          "date": "Jul 4, 2021"
         },
         {
           "name": "Labor Day",
-          "date": "Sep 7, 2020"
+          "date": "Sep 6, 2021"
         },
         {
           "name": "Armistice Day (Veteran\u0027s Day)",
-          "date": "Nov 11, 2020"
+          "date": "Nov 11, 2021"
         },
         {
           "name": "Thanksgiving Day",
-          "date": "Nov 26, 2020"
+          "date": "Nov 25, 2021"
         },
         {
           "name": "Christmas Day",
-          "date": "Dec 25, 2020"
+          "date": "Dec 25, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "Martin Luther King\u0027s and Robert E. Lee\u0027s Birthdays",
+          "date": "Jan 17, 2022"
+        },
+        {
+          "name": "George Washington\u0027s Birthday",
+          "date": "Feb 21, 2022"
+        },
+        {
+          "name": "Confederate Memorial Day",
+          "date": "Apr 25, 2022"
+        },
+        {
+          "name": "National Memorial Day / Jefferson Davis\u0027 Birthday",
+          "date": "May 30, 2022"
+        },
+        {
+          "name": "Independence Day",
+          "date": "Jul 4, 2022"
+        },
+        {
+          "name": "Labor Day",
+          "date": "Sep 5, 2022"
+        },
+        {
+          "name": "Armistice Day (Veteran\u0027s Day)",
+          "date": "Nov 11, 2022"
+        },
+        {
+          "name": "Thanksgiving Day",
+          "date": "Nov 24, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
         }
       ]
     }

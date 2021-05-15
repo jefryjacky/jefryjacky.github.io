@@ -3,84 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2020,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2020"
-        },
-        {
-          "name": "Australia Day",
-          "date": "Jan 26, 2020"
-        },
-        {
-          "name": "Good Friday",
-          "date": "Apr 10, 2020"
-        },
-        {
-          "name": "Easter Saturday",
-          "date": "Apr 11, 2020"
-        },
-        {
-          "name": "Easter Monday",
-          "date": "Apr 13, 2020"
-        },
-        {
-          "name": "Anzac Day",
-          "date": "Apr 25, 2020"
-        },
-        {
-          "name": "May Day",
-          "date": "May 4, 2020"
-        },
-        {
-          "name": "Queen\u0027s Birthday",
-          "date": "Jun 8, 2020"
-        },
-        {
-          "name": "Borroloola Show Day",
-          "date": "Jun 26, 2020"
-        },
-        {
-          "name": "Alice Springs Show Day",
-          "date": "Jul 3, 2020"
-        },
-        {
-          "name": "Tennant Creek Show Day",
-          "date": "Jul 10, 2020"
-        },
-        {
-          "name": "Katherine Show Day",
-          "date": "Jul 17, 2020"
-        },
-        {
-          "name": "Darwin Show Day",
-          "date": "Jul 24, 2020"
-        },
-        {
-          "name": "Picnic Day",
-          "date": "Aug 3, 2020"
-        },
-        {
-          "name": "Christmas Eve",
-          "date": "Dec 24, 2020"
-        },
-        {
-          "name": "Christmas Day",
-          "date": "Dec 25, 2020"
-        },
-        {
-          "name": "Boxing Day",
-          "date": "Dec 26, 2020"
-        },
-        {
-          "name": "New Year\u0027s Eve",
-          "date": "Dec 31, 2020"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2021,
       "list": [
         {
@@ -148,12 +70,98 @@
           "date": "Dec 25, 2021"
         },
         {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2021"
+        },
+        {
           "name": "Boxing Day",
           "date": "Dec 26, 2021"
         },
         {
           "name": "New Year\u0027s Eve",
           "date": "Dec 31, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 3, 2022"
+        },
+        {
+          "name": "Australia Day",
+          "date": "Jan 26, 2022"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Easter Saturday",
+          "date": "Apr 16, 2022"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 18, 2022"
+        },
+        {
+          "name": "Anzac Day",
+          "date": "Apr 25, 2022"
+        },
+        {
+          "name": "May Day",
+          "date": "May 2, 2022"
+        },
+        {
+          "name": "Queen\u0027s Birthday",
+          "date": "Jun 13, 2022"
+        },
+        {
+          "name": "Borroloola Show Day",
+          "date": "Jun 24, 2022"
+        },
+        {
+          "name": "Alice Springs Show Day",
+          "date": "Jul 1, 2022"
+        },
+        {
+          "name": "Tennant Creek Show Day",
+          "date": "Jul 8, 2022"
+        },
+        {
+          "name": "Katherine Show Day",
+          "date": "Jul 15, 2022"
+        },
+        {
+          "name": "Darwin Show Day",
+          "date": "Jul 22, 2022"
+        },
+        {
+          "name": "Picnic Day",
+          "date": "Aug 1, 2022"
+        },
+        {
+          "name": "Christmas Eve",
+          "date": "Dec 24, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2022"
+        },
+        {
+          "name": "New Year\u0027s Eve",
+          "date": "Dec 31, 2022"
         }
       ]
     }

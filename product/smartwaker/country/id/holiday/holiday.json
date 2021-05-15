@@ -2,77 +2,7 @@
   "country code": "ID",
   "years": [
     {
-      "version": "1",
-      "year": "2020",
-      "list": [
-        {
-          "name": "Tahun Baru Masehi",
-          "date": "Jan 01, 2020"
-        },
-        {
-          "name": "Tahun Baru Imlek",
-          "date": "Jan 25, 2020"
-        },
-        {
-          "name": "Isra Mi'raj",
-          "date": "Mar 22, 2020"
-        },
-        {
-          "name": "Hari Raya Nyepi",
-          "date": "Mar 25, 2020"
-        },
-        {
-          "name": "Jumat Agung",
-          "date": "Apr 10, 2020"
-        },
-        {
-          "name": "Hari Buruh",
-          "date": "May 1, 2020"
-        },
-        {
-          "name": "Hari Waisak",
-          "date": "May 7, 2020"
-        },
-        {
-          "name": "Kenaikan Isa Almasih",
-          "date": "May 21, 2020"
-        },
-        {
-          "name": "Hari Raya Idul Fitri",
-          "date": "May 24, 2020"
-        },
-        {
-          "name": "Cuti Bersama Lebaran",
-          "date": "May 25, 2020"
-        },
-        {
-          "name": "Hari Lahir Pancasila",
-          "date": "Jun 1, 2020"
-        },
-        {
-          "name": "Idul Adha",
-          "date": "Jul 31, 2020"
-        },
-        {
-          "name": "Hari Kemerdekaan",
-          "date": "Aug 17, 2020"
-        },
-        {
-          "name": "Tahun Baru Islam",
-          "date": "Aug 20, 2020"
-        },
-        {
-          "name": "Maulid Nabi Muhammad SAW",
-          "date": "Oct 29, 2020"
-        },
-        {
-          "name": "Hari Natal",
-          "date": "Dec 25, 2020"
-        }
-      ]
-    },
-    {
-      "version": "1",
+      "version": "2",
       "year": "2021",
       "list": [
         {
@@ -136,8 +66,82 @@
           "date": "Oct 19, 2021"
         },
         {
+          "name": "Cuti Bersama Hari Natal",
+          "date": "Dec 24, 2021"
+        },
+        {
           "name": "Hari Natal",
           "date": "Dec 25, 2021"
+        }
+      ]
+    },
+    {
+      "version": "1",
+      "year": "2022",
+      "list": [
+        {
+          "name": "Tahun Baru Masehi",
+          "date": "Jan 01, 2022"
+        },
+        {
+          "name": "Tahun Baru Imlek",
+          "date": "Feb 01, 2022"
+        },
+        {
+          "name": "Isra Mi'raj",
+          "date": "Mar 01, 2022"
+        },
+        {
+          "name": "Hari Raya Nyepi",
+          "date": "Mar 03, 2022"
+        },
+        {
+          "name": "Jumat Agung",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Hari Buruh",
+          "date": "May 1, 2022"
+        },
+        {
+          "name": "Hari Raya Idul Fitri",
+          "date": "May 02, 2022"
+        },
+        {
+          "name": "Cuti Bersama Lebaran",
+          "date": "May 03, 2022"
+        },
+        {
+          "name": "Hari Waisak",
+          "date": "May 16, 2022"
+        },
+        {
+          "name": "Kenaikan Isa Almasih",
+          "date": "May 26, 2022"
+        },
+        {
+          "name": "Hari Lahir Pancasila",
+          "date": "Jun 1, 2022"
+        },
+        {
+          "name": "Idul Adha",
+          "date": "Jul 10, 2022"
+        },
+        {
+          "name": "Tahun Baru Islam",
+          "date": "Jul 30, 2022"
+        },
+        {
+          "name": "Hari Kemerdekaan",
+          "date": "Aug 17, 2022"
+        },
+        {
+          "name": "Maulid Nabi Muhammad SAW",
+          "date": "Oct 08, 2022"
+        },
+        {
+          "name": "Hari Natal",
+          "date": "Dec 25, 2022"
         }
       ]
     }

@@ -3,56 +3,6 @@
   "years": [
     {
       "version": 1,
-      "year": 2020,
-      "list": [
-        {
-          "name": "New Year\u0027s Day",
-          "date": "Jan 1, 2020"
-        },
-        {
-          "name": "Chinese New Year",
-          "date": "Jan 25, 2020"
-        },
-        {
-          "name": "Chinese New Year",
-          "date": "Jan 26, 2020"
-        },
-        {
-          "name": "Good Friday",
-          "date": "Apr 10, 2020"
-        },
-        {
-          "name": "Labour Day",
-          "date": "May 1, 2020"
-        },
-        {
-          "name": "Vesak Day",
-          "date": "May 7, 2020"
-        },
-        {
-          "name": "Hari Raya Puasa",
-          "date": "May 24, 2020"
-        },
-        {
-          "name": "Hari Raya Haji",
-          "date": "Jul 31, 2020"
-        },
-        {
-          "name": "National Day",
-          "date": "Aug 9, 2020"
-        },
-        {
-          "name": "Deepavali",
-          "date": "Nov 14, 2020"
-        },
-        {
-          "name": "Christmas Day",
-          "date": "Dec 25, 2020"
-        }
-      ]
-    },
-    {
-      "version": 1,
       "year": 2021,
       "list": [
         {
@@ -98,6 +48,56 @@
         {
           "name": "Christmas Day",
           "date": "Dec 25, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "Chinese New Year",
+          "date": "Feb 1, 2022"
+        },
+        {
+          "name": "Chinese New Year",
+          "date": "Feb 2, 2022"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Labour Day",
+          "date": "May 1, 2022"
+        },
+        {
+          "name": "Hari Raya Puasa",
+          "date": "May 2, 2022"
+        },
+        {
+          "name": "Vesak Day",
+          "date": "May 16, 2022"
+        },
+        {
+          "name": "Hari Raya Haji",
+          "date": "Jul 9, 2022"
+        },
+        {
+          "name": "National Day",
+          "date": "Aug 9, 2022"
+        },
+        {
+          "name": "Deepavali",
+          "date": "Oct 24, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
         }
       ]
     }
