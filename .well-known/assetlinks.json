@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.smartwaker.debug",
-    "sha256_cert_fingerprints":
-    ["89:1A:4A:18:EF:BD:D3:56:2E:DA:19:74:BB:B2:E5:9F:54:D3:31:8D:C2:1E:4D:98:F8:39:35:7A:3F:53:E2:B9"]
-  }
-}]
