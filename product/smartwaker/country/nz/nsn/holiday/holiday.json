@@ -1,0 +1,105 @@
+{
+  "country code": "NZ",
+  "years": [
+    {
+      "version": 1,
+      "year": 2021,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2021"
+        },
+        {
+          "name": "Day after New Year\u0027s Day",
+          "date": "Jan 2, 2021"
+        },
+        {
+          "name": "Nelson Anniversary Day",
+          "date": "Feb 1, 2021"
+        },
+        {
+          "name": "Waitangi Day",
+          "date": "Feb 6, 2021"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 2, 2021"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 5, 2021"
+        },
+        {
+          "name": "ANZAC Day",
+          "date": "Apr 25, 2021"
+        },
+        {
+          "name": "Queen\u0027s Birthday",
+          "date": "Jun 7, 2021"
+        },
+        {
+          "name": "Labour Day",
+          "date": "Oct 25, 2021"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2021"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2021"
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "year": 2022,
+      "list": [
+        {
+          "name": "New Year\u0027s Day",
+          "date": "Jan 1, 2022"
+        },
+        {
+          "name": "Day after New Year\u0027s Day",
+          "date": "Jan 2, 2022"
+        },
+        {
+          "name": "Nelson Anniversary Day",
+          "date": "Jan 31, 2022"
+        },
+        {
+          "name": "Waitangi Day",
+          "date": "Feb 6, 2022"
+        },
+        {
+          "name": "Good Friday",
+          "date": "Apr 15, 2022"
+        },
+        {
+          "name": "Easter Monday",
+          "date": "Apr 18, 2022"
+        },
+        {
+          "name": "ANZAC Day",
+          "date": "Apr 25, 2022"
+        },
+        {
+          "name": "Queen\u0027s Birthday",
+          "date": "Jun 6, 2022"
+        },
+        {
+          "name": "Labour Day",
+          "date": "Oct 24, 2022"
+        },
+        {
+          "name": "Christmas Day",
+          "date": "Dec 25, 2022"
+        },
+        {
+          "name": "Boxing Day",
+          "date": "Dec 26, 2022"
+        }
+      ]
+    }
+  ]
+}
