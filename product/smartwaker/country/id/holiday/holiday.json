@@ -3,80 +3,6 @@
   "years": [
     {
       "version": "2",
-      "year": "2021",
-      "list": [
-        {
-          "name": "Tahun Baru Masehi",
-          "date": "Jan 01, 2021"
-        },
-        {
-          "name": "Tahun Baru Imlek",
-          "date": "Feb 12, 2021"
-        },
-        {
-          "name": "Isra Mi'raj",
-          "date": "Mar 11, 2021"
-        },
-        {
-          "name": "Hari Raya Nyepi",
-          "date": "Mar 14, 2021"
-        },
-        {
-          "name": "Jumat Agung",
-          "date": "Apr 2, 2021"
-        },
-        {
-          "name": "Hari Buruh",
-          "date": "May 1, 2021"
-        },
-        {
-          "name": "Kenaikan Isa Almasih",
-          "date": "May 13, 2021"
-        },
-        {
-          "name": "Hari Raya Idul Fitri",
-          "date": "May 13, 2021"
-        },
-        {
-          "name": "Cuti Bersama Lebaran",
-          "date": "May 14, 2021"
-        },
-        {
-          "name": "Hari Waisak",
-          "date": "May 26, 2021"
-        },
-        {
-          "name": "Hari Lahir Pancasila",
-          "date": "Jun 1, 2021"
-        },
-        {
-          "name": "Idul Adha",
-          "date": "Jul 20, 2021"
-        },
-        {
-          "name": "Tahun Baru Islam",
-          "date": "Aug 10, 2021"
-        },
-        {
-          "name": "Hari Kemerdekaan",
-          "date": "Aug 17, 2021"
-        },
-        {
-          "name": "Maulid Nabi Muhammad SAW",
-          "date": "Oct 19, 2021"
-        },
-        {
-          "name": "Cuti Bersama Hari Natal",
-          "date": "Dec 24, 2021"
-        },
-        {
-          "name": "Hari Natal",
-          "date": "Dec 25, 2021"
-        }
-      ]
-    },
-    {
-      "version": "1",
       "year": "2022",
       "list": [
         {
@@ -89,7 +15,7 @@
         },
         {
           "name": "Isra Mi'raj",
-          "date": "Mar 01, 2022"
+          "date": "Feb 28, 2022"
         },
         {
           "name": "Hari Raya Nyepi",
@@ -121,11 +47,11 @@
         },
         {
           "name": "Hari Lahir Pancasila",
-          "date": "Jun 1, 2022"
+          "date": "Jun 01, 2022"
         },
         {
           "name": "Idul Adha",
-          "date": "Jul 10, 2022"
+          "date": "Jul 09, 2022"
         },
         {
           "name": "Tahun Baru Islam",
@@ -142,6 +68,76 @@
         {
           "name": "Hari Natal",
           "date": "Dec 25, 2022"
+        }
+      ]
+    },
+    {
+      "version": "1",
+      "year": "2023",
+      "list": [
+        {
+          "name": "Tahun Baru Masehi",
+          "date": "Jan 01, 2023"
+        },
+        {
+          "name": "Tahun Baru Imlek",
+          "date": "Jan 22, 2023"
+        },
+        {
+          "name": "Isra Mi'raj",
+          "date": "Feb 18, 2023"
+        },
+        {
+          "name": "Hari Raya Nyepi",
+          "date": "Mar 22, 2023"
+        },
+        {
+          "name": "Jumat Agung",
+          "date": "Apr 07, 2023"
+        },
+        {
+          "name": "Hari Raya Idul Fitri",
+          "date": "Apr 22, 2023"
+        },
+        {
+          "name": "Cuti Bersama Lebaran",
+          "date": "Apr 23, 2023"
+        },
+        {
+          "name": "Hari Buruh",
+          "date": "May 1, 2023"
+        },
+        {
+          "name": "Hari Waisak",
+          "date": "May 06, 2023"
+        },
+        {
+          "name": "Kenaikan Isa Almasih",
+          "date": "May 18, 2023"
+        },
+        {
+          "name": "Hari Lahir Pancasila",
+          "date": "Jun 1, 2023"
+        },
+        {
+          "name": "Idul Adha",
+          "date": "Jun 29, 2023"
+        },
+        {
+          "name": "Tahun Baru Islam",
+          "date": "Jul 19, 2023"
+        },
+        {
+          "name": "Hari Kemerdekaan",
+          "date": "Aug 17, 2023"
+        },
+        {
+          "name": "Maulid Nabi Muhammad SAW",
+          "date": "Sep 27, 2023"
+        },
+        {
+          "name": "Hari Natal",
+          "date": "Dec 25, 2023"
         }
       ]
     }
