@@ -118,6 +118,24 @@ button:hover, a:hover {
   min-height: 25%;
 }
 
+#bgimg-9{
+  background-image: url("../images/AI.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-10{
+  background-image: url("../images/blockchain.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
+#bgimg-11{
+  background-image: url("../images/quantumcomputer.jpg");
+  /* full height */
+  min-height: 25%;
+}
+
 /*desktop*/
 @media only screen and (max-width: 600px) {
   .section{
